@@ -6,7 +6,15 @@ Micro. The code has been successfully compiled using ARDUINO 1.6.5. It
 the Pro Micro library is unsupported (as of 01 Jan 2016)! Sparkfun
 knows about this and will eventually release a library that is
 compatible with later versions of the ARDUINO IDE. Please follow the
-instructions [here](https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide) for installing the Pro Micro libraries.
+instructions
+[here](https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide)
+for installing the Pro Micro libraries.
+
+## Note
+
+The code assumes that _Tinside_ has index 0 and _Toutside_ has
+index 1. You can change these indices by changing the defines TIN and
+TOUT in the _controller.ino_ file.
 
 ## Directories
 
