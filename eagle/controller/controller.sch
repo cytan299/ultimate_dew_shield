@@ -3778,6 +3778,7 @@ WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF
  MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A
  PARTICULAR PURPOSE. Please see the CERN OHL v.1.2 for applicable
  conditions</text>
+<text x="25.4" y="121.92" size="1.778" layer="97">Two DS18B20 are required.</text>
 </plain>
 <instances>
 <instance part="U3" gate="G$1" x="134.62" y="119.38"/>
