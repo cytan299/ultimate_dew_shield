@@ -46,7 +46,7 @@ controller.
 ## Other information
 
 More information can be found in he *README.md* files in each
-directory and the [wiki](https://github.com/cytan299/ultimate_dew_shield/wiki/The-Ulimate-Dew-Shield) of this project on github.
+directory and the [wiki](https://github.com/cytan299/ultimate_dew_shield/wiki/The-Ultimate-Dew-Shield) of this project on github.
 
 ## Copyright
 All the software, documentation, hardware that I have written is
