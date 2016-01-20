@@ -21,10 +21,10 @@ that is set by the user.
 ## Support
 
 All the software have been successfully compiled on Mac OS X 10.10.5
-(Yosemite).
-
-I don't do Windows or Linux so, I cannot answer questions for these
-two platforms.
+(Yosemite) and 10.11.2 (El Capitan) running Arduino IDE 1.6.5. Note:
+Later versions of Arduino IDE cannot compile the Arduino Pro Micro
+library. See the README.md in the arduino directory for more
+information.
 
 This is unsupported software and hardware. Build at your own peril! :)
 
