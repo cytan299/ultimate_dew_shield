@@ -42,6 +42,7 @@ Have fun!
 * **eagle** Eagle schematic and board files.
 * **howto** Guides for how to assemble the dew shield and the
 controller.
+* **controller_analysis** The analysis of the temperature control loop.
 
 ## Other information
 
