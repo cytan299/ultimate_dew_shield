@@ -2,7 +2,7 @@
 
 by C.Y. Tan 2016
 
-![Ultimate Dew Shield](https://github.com/cytan299/ultimate_dew_shield/blob/master/wiki_pics/IMG_2454.jpg)
+![Ultimate Dew Shield](https://github.com/cytan299/ultimate_dew_shield/blob/master/wiki_pics/installed.png)
 
 I looked at the commercially available dew shields for my 8" LX200 and
 I thought that I could do better. The requirements for my dew shield
