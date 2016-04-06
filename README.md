@@ -42,7 +42,10 @@ Have fun!
 * **eagle** Eagle schematic and board files.
 * **howto** Guides for how to assemble the dew shield and the
 controller.
-* **controller_analysis** The analysis of the temperature control loop.
+* **controller_analysis** The analysis of the temperature control
+loop.
+* **writeup** A writeup of the motivation and analysis of the
+  Ultimate Dew Shield.
 
 ## Other information
 
